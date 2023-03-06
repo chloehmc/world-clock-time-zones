@@ -4,6 +4,9 @@ body {
   background-color: black;
   color: whitesmoke;
 }
+.container {
+  margin: 40px 40px;
+}
 
 section.times div {
   padding: 24px, 36px, 24px, 36px;
